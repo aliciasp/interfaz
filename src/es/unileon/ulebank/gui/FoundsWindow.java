@@ -14,7 +14,7 @@ import javax.swing.JButton;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
 
-
+//ALIC
 public class FoundsWindow extends JFrame {
 
 	private JPanel contentPane;
